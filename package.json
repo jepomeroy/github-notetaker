@@ -9,7 +9,7 @@
   "author": "Earl Pomeroy",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.5.4",
+    "axios": "^1.6.7",
     "firebase": "^2.2.7",
     "re-base": "^0.1.1",
     "react": "^0.13.3",
