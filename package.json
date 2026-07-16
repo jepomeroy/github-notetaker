@@ -13,7 +13,7 @@
     "author": "Jon Pomeroy",
     "license": "ISC",
     "dependencies": {
-        "@react-router/node": "8.1.0",
+        "@react-router/node": "8.2.0",
         "@react-router/serve": "8.2.0",
         "axios": "^1.6.7",
         "isbot": "^5",
