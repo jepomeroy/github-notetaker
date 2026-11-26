@@ -4,3 +4,9 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    groups:
+      # These packages must stay on the same version (peer deps), so bump them together.
+      react-router:
+        patterns:
+          - "react-router"
+          - "@react-router/*"
